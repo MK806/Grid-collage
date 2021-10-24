@@ -1,1 +1,1 @@
-# Grid-collage
+# Grid collage
